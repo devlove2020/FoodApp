@@ -15,6 +15,8 @@ const ICONS = {
   nav: require('../assets/icons/nav.png'),
   home: require('../assets/icons/home.png'),
   star: require('../assets/icons/star.png'),
+  search: require('../assets/icons/search.png'),
+  location2: require('../assets/icons/location2.png'),
 };
 
 // COLORS
